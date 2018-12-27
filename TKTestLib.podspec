@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TKTestLib"
-  s.version      = "0.0.1"
+  s.version      = "0.0.4"
   s.summary      = "xxx"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Xxx
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/LWisCL/TKTestLib.git", :commit => "0a87827e6bcb867b7ee21ebdcf71a16691fc76c8" }
+  s.source       = { :git => "https://github.com/LWisCL/TKTestLib.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
