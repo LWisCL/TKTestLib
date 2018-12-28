@@ -8,5 +8,8 @@
 #import "test.h"
 
 @implementation test
-
+-(void)print
+{
+    NSLog(@"0.0.5版本");
+}
 @end
